@@ -8,9 +8,11 @@ Proyek ini menggunakan deteksi tangan untuk mengontrol volume suara pada kompute
 2. Buka terminal atau command prompt, lalu arahkan ke direktori proyek.
 3. Jalankan program dengan perintah:
 
+```
 
-[python volumeControl.py](URL_Gist_Anda)
+python volumeControl.py
 
+```
 4. Arahkan tangan Anda ke arah kamera.
 5. Buka dan tutup jari-jari Anda untuk mengontrol volume suara.
 6. Tekan tombol 'q' di keyboard untuk keluar dari program.
