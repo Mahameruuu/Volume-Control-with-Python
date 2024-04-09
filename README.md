@@ -1,8 +1,8 @@
-**Hand Gesture Volume Control**
+# Hand Gesture Volume Control
 
 Proyek ini menggunakan deteksi tangan untuk mengontrol volume suara pada komputer. Program ini memanfaatkan deteksi landmark tangan menggunakan MediaPipe untuk menghitung panjang antara jari-jari tangan dan mengonversinya menjadi kontrol volume.
 
-**Cara Penggunaan**
+# Cara Penggunaan
 
 1. Pastikan webcam atau kamera eksternal terhubung ke komputer.
 2. Buka terminal atau command prompt, lalu arahkan ke direktori proyek.
